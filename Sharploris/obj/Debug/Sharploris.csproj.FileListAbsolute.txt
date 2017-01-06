@@ -1,0 +1,5 @@
+C:\Users\timpr\OneDrive\Documents\Visual Studio 2015\Projects\Sharploris\Sharploris\bin\Debug\Sharploris.exe
+C:\Users\timpr\OneDrive\Documents\Visual Studio 2015\Projects\Sharploris\Sharploris\bin\Debug\Sharploris.pdb
+C:\Users\timpr\OneDrive\Documents\Visual Studio 2015\Projects\Sharploris\Sharploris\obj\Debug\Sharploris.exe
+C:\Users\timpr\OneDrive\Documents\Visual Studio 2015\Projects\Sharploris\Sharploris\obj\Debug\Sharploris.pdb
+C:\Users\timpr\OneDrive\Documents\Visual Studio 2015\Projects\Sharploris\Sharploris\obj\Debug\Sharploris.csprojResolveAssemblyReference.cache
